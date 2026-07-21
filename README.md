@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 - 🔭 I’m currently working on **Building modular, presentation-ready Python workflows for data science projects**
 
